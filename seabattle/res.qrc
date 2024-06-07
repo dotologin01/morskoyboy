@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Background.png</file>
+        <file>images/cell.png</file>
+        <file>images/Dot.png</file>
+        <file>images/FieldBack.png</file>
+        <file>images/Half.png</file>
+        <file>images/Kill.png</file>
+        <file>images/PlacingBack.png</file>
+        <file>images/sh_1.png</file>
+        <file>images/sh_2.png</file>
+        <file>images/sh_3.png</file>
+        <file>images/sh_4.png</file>
+        <file>images/Ship.png</file>
+        <file>images/StartBack.png</file>
+    </qresource>
+</RCC>
